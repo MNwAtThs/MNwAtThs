@@ -5,6 +5,7 @@ Software Engineer
 -----------------  
  
 I’ve been learning to code for 5 years, after switching careers. I started with HTML, but have really found a passion for backend development
+<br>
 <br>• 🌍  I'm based in Houston, TX
 <br>• 🖥️  See my portfolio at [Sergio Jr's. Portfolio](http://sergiojr.com)
 <br>• ✉️  You can contact me at [sergio.deleon@my.utsa.edu](mailto:sergio.deleon@my.utsa.edu) 
