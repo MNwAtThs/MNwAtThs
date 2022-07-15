@@ -1,17 +1,4 @@
-Hello There ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sergio Deleon Jr.
- =========================================================================================================================================
- 
-Software Engineer 
------------------  
-
-I’ve been learning to code for 5 years, after switching careers. I started with HTML, but have really found a passion for backend development
-• 🌍  I'm based in Houston, TX
-• 🖥️  See my portfolio at [Sergio Jr's. Portfolio](http://sergiojr.com)
-• ✉️  You can contact me at [sergio.deleon@my.utsa.edu](mailto:sergio.deleon@my.utsa.edu) 
-• 🚀  I'm currently working on [Cl!ick](http://click.com) 
-• 🧠  I'm learning RISC-V 
-• 🤝  I'm open to collaborating on Any ML or AI projects 
-• ⚡️  Top Gun was a pretty good movie nil
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sergio Deleon Jr. =========================================================================================================================================  Software Engineer -----------------  I’ve been learning to code for 5 years, after switching careers. I started with HTML, but have really found a passion for backend development  * 🌍  I'm based in Houston, TX * 🖥️  See my portfolio at [Sergio Jr's. Portfolio](http://sergiojr.com) * ✉️  You can contact me at [sergio.deleon@my.utsa.edu](mailto:sergio.deleon@my.utsa.edu) * 🚀  I'm currently working on [Cl!ick](http://click.com) * 🧠  I'm learning RISC-V * 🤝  I'm open to collaborating on Any ML or AI projects * ⚡  Top Gun was a pretty good movie nil
 
 <a href="https://www.twitter.com/sergiodeleonjr_" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/sergiodeleonjr_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.github.com/MNwAtThs" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/MNwAtThs?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitch.tv/iamnewatthis" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitch/status/iamnewatthis?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 ### Skills
