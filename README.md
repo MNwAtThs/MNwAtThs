@@ -1,4 +1,4 @@
-Hello There ![] 👋 My name is Sergio Deleon Jr.
+Hello There! 👋 My name is Sergio Deleon Jr.
   =========================================================================================================================================
 
  Software Engineer 
